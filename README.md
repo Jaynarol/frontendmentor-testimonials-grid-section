@@ -2,7 +2,7 @@
 
 https://jaynarol.github.io/frontendmentor-testimonials-grid-section/
 
-> the below information is original README from [Results summary component challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
+> the below information is original README from [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 # Frontend Mentor - Testimonials grid section
 
