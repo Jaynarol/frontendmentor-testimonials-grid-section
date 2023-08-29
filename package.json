@@ -1,0 +1,19 @@
+{
+  "name": "testimonials-grid-section",
+  "version": "1.0.0",
+  "description": "![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./tailwind.css -o ./src/style.css --watch",
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "Jaynarol",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.3",
+    "tailwindcss": "^3.3.3"
+  }
+}
